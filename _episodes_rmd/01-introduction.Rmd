@@ -26,8 +26,6 @@ editor_options:
 ## Preliminaries
 
 - A working internet connection (please use the wifi)
-- [Install Slack](https://slack.com/intl/en-gb/) or use the web interface
-- Introduce youselves on Slack
 - Check you can login to the R-Studio Server. Details on:
   - The slides
   - Here
