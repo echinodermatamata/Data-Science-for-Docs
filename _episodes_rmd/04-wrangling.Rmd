@@ -47,7 +47,7 @@ This _filters_ rows from the `df` data frame where `height` is greater than or e
 
 Filter **always** acts on rows, and will throw away any data that doesn't meet your request.
 
-```{r}
+{r}
 include_graphics("./img/filter.png")
 ```
 
@@ -57,7 +57,7 @@ A similar function called `select` acts over columns. Just want the `sex` colum?
 select(df, sex)
 ```
 
-```{r}
+{r}
 include_graphics("./img/select.png")
 ```
 
@@ -104,7 +104,7 @@ df %>%
   arrange(height)
 ```
 
-```{r}
+{r}
 include_graphics("./img/arrange.png")
 ```
 

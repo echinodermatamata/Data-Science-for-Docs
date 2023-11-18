@@ -1,21 +1,17 @@
 ---
-source: Rmd
 title: "Excel Hell"
+source: Rmd
 teaching: 50
 exercises: 10
-questions:
-- "What is the place of a spreadsheet programme?"
+questions: What is the place of a spreadsheet programme?
 objectives:
-
-- "Learn about data types (columns)"
-- "Spreadsheets <> Data (Rows <> Observations)"
-- "Best practices for recording data"
-- "Common mistakes"
-
+- Learn about data types (columns)
+- Spreadsheets <> Data (Rows <> Observations)
+- Best practices for recording data
+- Common mistakes
 keypoints:
-- "What are you analysing? One row per observation"
-- "Organise the spreadsheet for the computer, format for yourself"
-
+- What are you analysing? One row per observation
+- Organise the spreadsheet for the computer, format for yourself
 ---
 
 
@@ -74,7 +70,7 @@ This is essentially a special case of the decimal. Dates are simply integers cou
 
 Typing the same date into Excel will give you either the appearance or a different actual date.
 
-![]({% link fig/excel-dates.png %})
+
 
 > **Top Tip:** If you really want to make life easy in the future, separate out each day, month, year, hour and minute into separate columns. It's a greater investment, but can make handling dates easier in the future.
 

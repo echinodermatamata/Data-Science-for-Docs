@@ -1,20 +1,21 @@
 ---
-source: Rmd
 title: "Just Enough Statistics"
+source: Rmd
 teaching: 50
-exercises: 10
-questions:
-- "What is statistics?"
+output:
+  html_document:
+    df_print: paged
+questions: What is statistics?
 objectives:
-- "Be able to describe data effectively."
-- "Use basic statistics terminology correctly."
-- "Understand statistical power, p values and confidence intervals."
-- "Know where to go next for help."
-keypoints:
-- "Statistics is the science of learning from data"
-editor_options: 
+- Be able to describe data effectively.
+- Use basic statistics terminology correctly.
+- Understand statistical power, p values and confidence intervals.
+- Know where to go next for help.
+keypoints: Statistics is the science of learning from data
+editor_options:
   chunk_output_type: console
 graphics: yes
+exercises: 10
 ---
 
 ## Lesson
